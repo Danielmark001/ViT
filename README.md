@@ -1,2 +1,2 @@
 # ViT
-learning vision transformer
+learning vision transformer from scratch
